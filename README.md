@@ -1,8 +1,8 @@
-## Payline .NET SDK
+## Monext .NET SDK
 
 ### Composition du SDK
 
-Le SDK  .NET est composé d'une librairie de fonctions qui permet d'utiliser les fonctions de l'API Payline.
+Le SDK  .NET est composé d'une librairie de fonctions qui permet d'utiliser les fonctions de l'API Monext.
 
 **Configuration du SDK :**
 
